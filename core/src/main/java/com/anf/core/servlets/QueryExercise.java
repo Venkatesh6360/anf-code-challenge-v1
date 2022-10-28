@@ -56,11 +56,13 @@ public class QueryExercise extends SlingSafeMethodsServlet{
 	      try {
 	            final QueryManager queryManager = getQueryManager(req);
 	            out.println("Fetching the pages using SQL 2");
+	            out.println("------------------------------------------");
 	            printNodes(out, executeQuery(queryManager,
 	            "SELECT parent.* FROM [cq:Page] AS parent INNER JOIN [cq:PageContent] AS child ON ISCHILDNODE(child,parent) WHERE "
 	            + "ISDESCENDANTNODE(parent, '/content/anf-code-challenge/us/en') AND child.[anfCodeChallenge]  IS NOT NULL   "
 	            + "ORDER BY parent.[jcr:created]"));
-	            out.println("Fetching the pages using querybuilder");
+	            out.println('\n'+"Fetching the pages using querybuilder");
+		    out.println("------------------------------------------");  
 	            Map<String, String> predicate = new HashMap<>();
 	            ResourceResolver resourceResolver = req.getResourceResolver();
 	            session = resourceResolver.adaptTo(Session.class);
