@@ -1,0 +1,98 @@
+{
+    "jcr:primaryType": "sling:Folder",
+    "jcr:createdBy": "admin",
+    "jcr:created": "Wed Aug 10 2022 23:39:55 GMT+0530",
+    "newsData": {
+        "jcr:primaryType": "nt:unstructured",
+        "news_0": {
+            "jcr:primaryType": "nt:unstructured",
+            "description": "BBC Sport looks at the big talking points from UFC 273 as Alexander Volkanovski beats the 'Korean Zombie' Chan Sung Jung to retain his featherweight title.",
+            "author": "Caroline Fox",
+            "urlImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/B536/production/_124109364_gettyimages-1390585815.jpg",
+            "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/61057214",
+            "title": "UFC 273: Five things we learned as Alexander Volkanovski dominates 'Korean Zombie'",
+            "content": "Volkanovski earned a performance-of-the-night bonus for his win over Chan Sung Jung\nAlexander Volkanovski cemented his status as the world's best featherweight with a flawless victory over the 'Kore…"
+        },
+        "news_1": {
+            "jcr:primaryType": "nt:unstructured",
+            "description": "The nation’s founding fathers hunted foxes for sport. This week, a rabid fox that bit nine people near the U.S. Capitol led to a very different type of hunt.",
+            "author": "Leah Askarinam",
+            "urlImage": "https://static01.nyt.com/images/2022/04/06/us/politics/-06onpolitics-pm-newsletter-fox/-06onpolitics-pm-newsletter-fox-facebookJumbo-v2.jpg",
+            "url": "https://www.nytimes.com/2022/04/08/us/politics/capitol-hill-fox-history.html",
+            "title": "Foxes and D.C. Politicians Don’t Mix, As This Week and History Show",
+            "content": "George Washington himself was an avid fox hunter and even bred his own fox hounds. Today, Washington, the father of our country, is also known as the father of the American foxhound.\nWashington was …"
+        },
+        "news_2": {
+            "jcr:primaryType": "nt:unstructured",
+            "description": "<ul><li>UK Sport says it is up to individual sports to decide eligibility</li><li>Chief executive praises ‘incredible resilience’ of cyclist</li></ul>UK Sport says it will support transgender cyclist Emily Bridges with lottery funding in the build up to the P…",
+            "author": "Sean Ingle",
+            "urlImage": "https://i.guim.co.uk/img/media/332590e057078f32f250e4c5765d10bea2a48fcd/62_413_1038_623/master/1038.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f187ac31adfbb96f31293f8986ef5c0e",
+            "url": "https://amp.theguardian.com/sport/2022/apr/07/transgender-cyclist-emily-bridges-in-line-for-lottery-funding-if-allowed-to-compete",
+            "title": "Transgender cyclist Emily Bridges set for lottery funding if allowed to compete",
+            "content": "UK Sport says it will support transgender cyclist Emily Bridges with lottery funding in the build up to the Paris 2024 Olympics if she is allowed to compete in the womens category.\nThe confirmation …"
+        },
+        "news_3": {
+            "jcr:primaryType": "nt:unstructured",
+            "description": "Japan's double Olympic speed skating champion Nana Takagi announced her retirement from the sport on Tuesday.",
+            "author": "Samuel",
+            "urlImage": "https://www.reuters.com/resizer/bC2GHTDslLAikPy9rINUC8Rs86Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FFVUH2PSC5LP3P7ZC2SQXLOYH4.jpg",
+            "url": "https://www.reuters.com/lifestyle/sports/japans-double-olympic-champion-takagi-retires-2022-04-05/",
+            "title": "Japan's double Olympic champion Takagi retires - Reuters.com",
+            "content": "April 5 (Reuters) - Japan's double Olympic speed skating champion Nana Takagi announced her retirement from the sport on Tuesday.\nThe 29-year-old won gold in the inaugural women's mass start competi…"
+        },
+        "news_4": {
+            "jcr:primaryType": "nt:unstructured",
+            "description": "Amazon today has introduced a new batch of all-time low prices on the Apple Watch Series 7, starting as low as $329.99 for the 41mm GPS models. These sales reach up to $69 off, and in every model listed below you'll find record low discounts. Below we focus o…",
+            "author": "Mitchel Broussard",
+            "urlImage": "https://images.macrumors.com/t/Na1KT6ZUZ402z20lx-3rQR8aoh0=/1600x/article-new/2022/01/Apple-Watch-Series-7-Rainbow-Cropped-Blue-Discount.jpg",
+            "url": "https://www.macrumors.com/2022/04/04/deals-take-69-off-apple-watch/",
+            "title": "Deals: New Record Low Prices Hit Apple Watch Series 7, Starting at $329.99",
+            "content": "Amazon today has introduced a new batch of all-time low prices on the Apple Watch Series 7, starting as low as $329.99 for the 41mm GPS models. These sales reach up to $69 off, and in every model lis… [+1555 chars]"
+        },
+        "news_5": {
+            "jcr:primaryType": "nt:unstructured",
+            "description": "If you’ve seen golf shoes on the street, it is because one of the world’s most conservative sports has been getting a fresh look thanks to streetwear and sneaker culture.",
+            "author": "Gerald Flores",
+            "urlImage": "https://static01.nyt.com/images/2022/04/10/sports/10masters-sneakers-1/merlin_205040073_61cb1c2c-c550-4f1f-9351-58b65010fa80-facebookJumbo.jpg",
+            "url": "https://www.nytimes.com/2022/04/08/sports/golf/sneakers-streetwear.html",
+            "title": "Golf Shoes Are Getting a Makeover Thanks to Streetwear and Sneaker Culture",
+            "content": "Many people bought golf sets at entry-level prices in 2020, he said, an indication that newcomers were picking up the sport. Any of the beginners who are buying $400 golf sets are not going to drop $… [+1687 chars]"
+        },
+        "news_6": {
+            "jcr:primaryType": "nt:unstructured",
+            "description": "Move over Bing Dwen Dwen and make room for the Masters Gallery Guard Garden Gnome who has taken over the crown as most coveted sport merchandise.",
+            "author": "Lucy Ratcliffe",
+            "urlImage": "https://www.reuters.com/resizer/SZqQsPDNcfQCMwP5hRO29PvnYhM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NQUBFBPJMBMLBIQQAGOTEUWZFE.jpg",
+            "url": "https://www.reuters.com/lifestyle/sports/gnome-contest-masters-gallery-guard-takes-bing-dwen-dwen-2022-04-10/",
+            "title": "Gnome contest as Masters Gallery Guard takes on Bing Dwen Dwen - Reuters.com",
+            "content": "AUGUSTA, Ga., April 10 (Reuters) - Move over Bing Dwen Dwen and make room for the Masters Gallery Guard Garden Gnome who has taken over the crown as most coveted sport merchandise.\nThe cuddly panda-…"
+        },
+        "news_7": {
+            "jcr:primaryType": "nt:unstructured",
+            "description": "A new rumor points to a \"Pro\" variant of the Galaxy Watch 5 launching later this year. It may sport a 60% larger battery than its predecessors.",
+            "author": "Derrek Lee",
+            "urlImage": "https://cdn.mos.cms.futurecdn.net/JdwcbFY7wqutddqW62mwAB-1200-80.jpg",
+            "url": "https://www.androidcentral.com/wearables/galaxy-watch-5-pro-rumored-battery-capacity",
+            "title": "A rumored Galaxy Watch 5 'Pro' could arrive with a massive battery upgrade",
+            "content": "What you need to know\n<ul><li>Samsung may be working on a Pro version of the Galaxy Watch 5.</li><li>The Galaxy Watch 5 Pro is rumored to sport a massive 572mAh battery.</li><li>Samsung is expected … "
+        },
+        "news_8": {
+            "jcr:primaryType": "nt:unstructured",
+            "description": "The Court of Arbitration for Sport (CAS) on Tuesday said the Football Union of Russia (FUR) had withdrawn its appeal against soccer's world governing body FIFA as well as the Polish, Swedish and Czech Republic Football Associations.",
+            "author": "Brandon Heal",
+            "urlImage": "https://www.reuters.com/resizer/RB0GvDyxOxd1KgZJ6V9qQs_ff1w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4OM2YJSKAZLSVLYUJQHNHUPERE.jpg",
+            "url": "https://www.reuters.com/lifestyle/sports/football-union-russia-withdraws-appeal-over-fifa-ban-2022-04-05/",
+            "title": "Football Union of Russia withdraws appeal over FIFA ban - Reuters.com",
+            "content": "April 5 (Reuters) - The Court of Arbitration for Sport (CAS) on Tuesday said the Football Union of Russia (FUR) had withdrawn its appeal against soccer's world governing body FIFA as well as the Poli…"
+        },
+        "news_9": {
+            "jcr:primaryType": "nt:unstructured",
+            "description": "Former world number five Jo-Wilfried Tsonga will play his final tournament at next month's French Open, he said on Wednesday, announcing his decision to bow out of the sport at his home Grand Slam.",
+            "author": "Anna Mikhaleva",
+            "urlImage": "https://www.reuters.com/resizer/ZQ4DjXGtc05Wju_N94IiCdzgXjc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MC42JMT3G5LOHBXI5CHORFE244.jpg",
+            "url": "https://www.reuters.com/lifestyle/sports/frances-tsonga-retire-after-roland-garros-2022-04-06/",
+            "title": "France's Tsonga to retire after Roland Garros - Reuters.com",
+            "content": "April 6 (Reuters) - Former world number five Jo-Wilfried Tsonga will play his final tournament at next month's French Open, he said on Wednesday, announcing his decision to bow out of the sport at hi…"
+        }
+    }
+}

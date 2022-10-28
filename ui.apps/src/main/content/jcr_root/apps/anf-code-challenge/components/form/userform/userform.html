@@ -1,0 +1,48 @@
+
+<div class="country__cmp">
+	<h2>User Form</h2>
+
+	<form method="post" action="/bin/saveUserDetails" name="userform"
+		id="userform" class="cmp-form">
+
+		<div
+			data-sly-resource="${'firstName' @
+                        resourceType='anf-code-challenge/components/form/text',
+                        decorationTagName='div'
+                        }"></div>
+
+		<div
+			data-sly-resource="${'lastName' @
+                        resourceType='anf-code-challenge/components/form/text',
+                        decorationTagName='div'
+                        }"></div>
+
+		<div
+			data-sly-resource="${'age' @
+                        resourceType='anf-code-challenge/components/form/text',
+                        decorationTagName='div'
+                        }"></div>
+
+		<div
+			data-sly-resource="${'country' @
+                        resourceType='anf-code-challenge/components/form/country',
+                        decorationTagName='div'
+                        }"></div>
+
+		<div
+			data-sly-resource="${'submit' @
+                        resourceType='anf-code-challenge/components/form/button',
+                        decorationTagName='div'
+                        }"></div>
+
+
+		<div id="success-message" style="display: none; color: green">Data
+			saved successfully</div>
+		<div id="error-message" style="display: none; color: red"></div>
+
+		<sly
+			data-sly-use.clientLib="${'/libs/granite/sightly/templates/clientlib.html'}" />
+		<sly
+			data-sly-call="${clientLib.js @ categories='anf-code-challenge.components.form.userform.site'}" />
+	</form>
+</div>

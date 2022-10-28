@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2022-08-10T22:19:37.874+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/anf-code-challenge/settings/wcm/templates/page-content"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="User Form"
+        sling:resourceType="anf-code-challenge/components/page">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="anf-code-challenge/components/container">
+            <container
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="anf-code-challenge/components/container">
+                <title
+                    jcr:lastModified="{Date}2022-08-10T12:56:22.599+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    jcr:title="User Form"
+                    sling:resourceType="anf-code-challenge/components/title"/>
+                <container
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="anf-code-challenge/components/container"
+                    layout="responsiveGrid">
+                    <userform
+                        jcr:created="{Date}2022-08-10T18:54:36.720+05:30"
+                        jcr:createdBy="admin"
+                        jcr:lastModified="{Date}2022-08-10T18:54:36.720+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="anf-code-challenge/components/form/userform">
+                        <firstName
+                            jcr:lastModified="{Date}2022-08-10T22:19:01.873+05:30"
+                            jcr:lastModifiedBy="admin"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="First Name"
+                            sling:resourceType="anf-code-challenge/components/form/text"
+                            name="firstName"
+                            required="true"
+                            requiredMessage="This is a required field."
+                            rows="1"
+                            type="text"/>
+                        <lastName
+                            jcr:lastModified="{Date}2022-08-10T22:19:17.856+05:30"
+                            jcr:lastModifiedBy="admin"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Last Name"
+                            sling:resourceType="anf-code-challenge/components/form/text"
+                            name="lastName"
+                            required="true"
+                            requiredMessage="This is a required field."
+                            rows="1"
+                            type="text"/>
+                        <age
+                            jcr:lastModified="{Date}2022-08-10T22:19:31.068+05:30"
+                            jcr:lastModifiedBy="admin"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Age"
+                            sling:resourceType="anf-code-challenge/components/form/text"
+                            name="age"
+                            required="true"
+                            requiredMessage="This is a required field."
+                            rows="1"
+                            type="text"/>
+                        <country
+                            jcr:lastModified="{Date}2022-08-10T22:19:37.872+05:30"
+                            jcr:lastModifiedBy="admin"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="anf-code-challenge/components/form/country"
+                            countries="australia"/>
+                    </userform>
+                </container>
+            </container>
+        </root>
+    </jcr:content>
+</jcr:root>
