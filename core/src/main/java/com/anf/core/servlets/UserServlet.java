@@ -61,6 +61,7 @@ public class UserServlet extends SlingAllMethodsServlet {
 
             // return 202 accepted response when details are saved successfully
             resp.setStatus(HttpStatus.SC_ACCEPTED);
+            resp.getWriter().print("Node saved Successfully under /var/anf-code-challenge");
             
         } catch (Exception e) {
             // handle errors and return proper json response describing the error
